@@ -14,8 +14,17 @@ function App() {
 
 
         {/* Partie Dezo*/}
-        <div className='flex gap-3 bg-yellow-100 flex-[10]'>
+        <div className='flex flex-wrap gap-3 bg-yellow-100 flex-[10]'>
 
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
+          <div className='h-[350px] w-[300px] bg-green-100'></div>
           <div className='h-[350px] w-[300px] bg-green-100'></div>
           <div className='h-[350px] w-[300px] bg-green-100'></div>
           <div className='h-[350px] w-[300px] bg-green-100'></div>
